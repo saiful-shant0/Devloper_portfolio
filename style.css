@@ -66,12 +66,27 @@ h2{
     margin-left: 5%;
     margin-right: 5%;
     padding-left: 10px;
-    box-shadow: 10px 10px 40px gray;
-
-
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;    
 }
 .Exprience{
         background-image: url(images/exp-bg.png);
         background-repeat: no-repeat;
         background-position: left;
+}
+
+#e1{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+
+#e2{
+    border-left: 7px solid;
+    border-image: linear-gradient(red,orange);
+    border-image-slice: 1;
+}
+footer p{
+
+    text-align: center;
 }
