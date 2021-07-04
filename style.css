@@ -31,7 +31,7 @@ h1{
     font-weight: 700;
     border-radius: 5px;
 }
-.top-banner{
+.top{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
@@ -51,4 +51,27 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
     
+}
+h1{
+    font-size: 50px;
+}
+
+h2{
+    font-size: 37px;
+}
+
+
+.epart1{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    box-shadow: 10px 10px 40px gray;
+
+
+}
+.Exprience{
+        background-image: url(images/exp-bg.png);
+        background-repeat: no-repeat;
+        background-position: left;
 }
